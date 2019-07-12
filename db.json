@@ -1,0 +1,17 @@
+{
+  "url_sites": {
+	  "sites": [
+		{
+		  "id": "4004",
+		  "name": "/start"
+		}, 
+		{
+		  "id": "5005",
+		  "name": "/unterwegs"
+		}
+	  ],
+	  "statuses": [
+		"400", "200"
+	  ]
+  }
+}
